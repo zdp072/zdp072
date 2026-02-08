@@ -17,8 +17,3 @@ Focused on AI tools, directories, and lightweight utilities.
 AI · Automation · Web · Indie Hacking 
 
 ---
-
-### 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zdp072&show_icons=true&hide_title=true)
-
