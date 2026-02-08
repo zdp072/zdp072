@@ -1,16 +1,24 @@
-## Hi there 👋
+## Hi, I'm zdp072 👋
 
-<!--
-**zdp072/zdp072** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Indie developer building small, useful web products.  
+Focused on AI tools, directories, and lightweight utilities.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Projects
+
+- 🧭 **[AgentGuide](https://www.agentguide.org/)** — AI agent & tool directory for builders
+- 🔮 **[Cultist Circle Calculator](https://cultistcirclecalculator.com/)** — Calculator tool for Cultist Simulator players
+
+---
+
+### 🛠️ Interests
+
+AI · Automation · Web · Indie Hacking 
+
+---
+
+### 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zdp072&show_icons=true&hide_title=true)
+
