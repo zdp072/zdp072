@@ -7,8 +7,10 @@ Focused on AI tools, directories, and lightweight utilities.
 
 ### 🚀 Projects
 
-- 🧭 **[AgentGuide](https://www.agentguide.org/)** — AI agent & tool directory for builders
 - 🔮 **[Cultist Circle Calculator](https://cultistcirclecalculator.com/)** — Calculator tool for Cultist Simulator players
+- ⏳ [Aion 2 Rift Timer](https://aion2rifttimer.pro/) — Rift countdown and regional schedule tool for Aion 2 players.
+- 🎮 [Is Mottle a Game?](https://ismottleagame.top/) — Play Mottle online for free and explore gameplay guides.
+- 🎨 [Tiny Desk AI](https://tiny-desk-ai.art/) — AI-powered photo-to-video generator for desk concert videos.
 
 ---
 
